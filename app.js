@@ -5,7 +5,7 @@ function verificarClique () {
 console.log ('Foi clicado');
 }
 function alerta () {
-    alert('Eu amo JS!');
+    alert('Eu amo programar!');
 }
 function nomeCidade () {
      let cidade = prompt ('Diga uma Cidade qualquer do brasil!');
