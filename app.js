@@ -8,7 +8,7 @@ function alerta () {
     alert('Eu amo programar!');
 }
 function nomeCidade () {
-     let cidade = prompt ('Diga uma Cidade qualquer do brasil!');
+     let cidade = prompt ('Diga uma Cidade qualquer!');
      alert(`Passei em ${cidade} e lembrei de você!`);
 }
 function soma () {
